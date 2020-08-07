@@ -8,7 +8,7 @@
 
 [DOS over wep application](https://medium.com/@mohamedayad_72488/dos-over-wep-application-c5176dc29035)
 
-[bypass user-restriction registration](https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855)
+[Bypass user-restriction registration](https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855)
 
 [Block vectim from resetting his password](https://medium.com/@mohamedayad_72488/block-vectim-from-resetting-his-password-406c4237a3d9)
 

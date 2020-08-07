@@ -2,6 +2,10 @@
 
 <h3><center>Write-ups</center> </h3>
 
+[User name is already exist](https://medium.com/@mohamedayad_72488/user-name-is-already-exist-ccd353e3ce4a)
+
+[I want all these features](https://medium.com/@mohamedayad_72488/i-want-all-these-features-bb41e8252020)
+
 [DOS over wep application](https://medium.com/@mohamedayad_72488/dos-over-wep-application-c5176dc29035)
 
 [bypass user-restriction registration](https://medium.com/@mohamedayad_72488/bypass-user-restriction-registration-cbfc4eb855)

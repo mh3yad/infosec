@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<!-- See https://mathiasbynens.github.io/rel-noopener/ -->
+<meta charset="utf-8">
+<title>Go back!</title>
+<h1>Why don’t you go back to the previous tab?</h1>
+<script>
+	if (window.opener) {
+        		opener.location = 'www.google.com';
+
+
+	} else {
+		document.getElementById('h1').innerHTML = 'The previous tab is safe and intact.';
+	}
+</script>

@@ -75,11 +75,11 @@
 ---
 `Sans 401 topics clearify (arabic)`
 
-[Sans 401 firewall](https://docs.google.com/document/d/1LiEa4k5IUtN1Llc7dxpcofc9mlWmoLbGLupOckuPOcQ/edit)
+[Sans 401 firewall](https://docs.google.com/document/d/1LiEa4k5IUtN1Llc7dxpcofc9mlWmoLbGLupOckuPOcQ/edit?usp=sharing)
 
-[Sans 401 IDS](https://docs.google.com/document/d/1nyNGZNQEm3OsnqEtZcEwGeetmwoiOyHuN9Jf3Z8tYDg/edit)
+[Sans 401 IDS](https://docs.google.com/document/d/1nyNGZNQEm3OsnqEtZcEwGeetmwoiOyHuN9Jf3Z8tYDg/edit?usp=sharing)
 
-[Sans 401 Hony Pot](https://docs.google.com/document/d/1cM9WGjvy0HcgTUrSWgqh3Cihw5qOuZ72Fu9_F_eX5iU/edit)
+[Sans 401 Hony Pot](https://docs.google.com/document/d/1cM9WGjvy0HcgTUrSWgqh3Cihw5qOuZ72Fu9_F_eX5iU/edit?usp=sharing)
 
 ---
 
